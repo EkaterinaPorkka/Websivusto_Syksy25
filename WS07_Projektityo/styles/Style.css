@@ -1,0 +1,12 @@
+body {
+  color: bisque;
+  background: rgb(245, 128, 190);
+    }
+.gallery-image {
+  width: 380px;      /* change this value */
+  height: 380px;     /* change this value */
+  margin: 1%;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
